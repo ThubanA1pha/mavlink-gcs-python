@@ -1,0 +1,65 @@
+# Internal / temporary runtime data
+logs/
+map/
+
+# Drone telemetry / logs
+*.log
+*.tlog
+*.bin
+*.ulg
+
+# Internal drafts
+SPEC_*.md
+
+# Presentation / handoff documents
+HANDOFF*.md
+PRESENTATION_BRIEF.md
+*발표*.md
+*브리프*.md
+*인수인계*.md
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Internal specifications / handoff documents
+SPEC_*.md
+HANDOFF*.md
+PRESENTATION_BRIEF.md
+*발표*.md
+*브리프*.md
+*인수인계*.md
+
+# Runtime / generated data
+logs/
+reports/
+sitl/
+map/
+
+# Drone telemetry / logs
+*.log
+*.tlog
+*.bin
+*.ulg
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
