@@ -1,3 +1,5 @@
-```text
 pymavlink
 tkintermapview
+Pillow
+requests
+mgrs
