@@ -141,3 +141,10 @@ mavlink-gcs-python/
 ├─ drone.png
 ├─ target.png
 └─ .gitignore
+
+## 추가 문서
+
+- [사용자 설명서](USER_MANUAL.md)
+- [SITL 실행 가이드](docs/SITL_SETUP.md)
+- [데모 시나리오 가이드](docs/DEMO_GUIDE.md)
+- [시스템 구조 문서](docs/ARCHITECTURE.md)
