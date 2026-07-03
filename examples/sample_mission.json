@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "description": "Sample mission for MAVLink GCS path planning and mission loading test.",
+  "waypoints": [
+    {
+      "lat": 37.565575,
+      "lon": 126.977987,
+      "alt": 10
+    },
+    {
+      "lat": 37.565950,
+      "lon": 126.978400,
+      "alt": 15
+    },
+    {
+      "lat": 37.566300,
+      "lon": 126.978000,
+      "alt": 15
+    }
+  ],
+  "no_fly_zones": [
+    [
+      {
+        "lat": 37.565800,
+        "lon": 126.978050
+      },
+      {
+        "lat": 37.565950,
+        "lon": 126.978250
+      },
+      {
+        "lat": 37.565700,
+        "lon": 126.978350
+      }
+    ]
+  ],
+  "threat_radii": [
+    {
+      "lat": 37.566050,
+      "lon": 126.978150,
+      "radius_m": 30
+    }
+  ]
+}
